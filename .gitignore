@@ -3,7 +3,5 @@
 __pycache__
 *.pyc
 checkpoint.pth
-checkpoints/
 landmark_images/
-static_images/
 Classify Landmarks.tar.gz
