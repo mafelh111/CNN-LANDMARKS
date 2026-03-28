@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
+*.pyc
+checkpoint.pth
+checkpoints/
+landmark_images/
+static_images/
+Classify Landmarks.tar.gz
